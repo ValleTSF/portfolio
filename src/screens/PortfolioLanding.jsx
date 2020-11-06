@@ -43,8 +43,8 @@ const PortfolioLanding = () => {
                       <h1 className="title">
                         Malcolm Rudhag <br />
                         <TextLoop>
-                          <span> Backend Developer.</span>
-                          <span> Frontend Developer.</span>
+                          <span> Backend Dev.</span>
+                          <span> Frontend Dev.</span>
                           <span> Teamplayer.</span>
                         </TextLoop>{" "}
                       </h1>
@@ -86,7 +86,7 @@ const PortfolioLanding = () => {
                   <div className="thumbnail">
                     <img
                       className="w-100"
-                      src="/assets/images/about/about-me-picture.jpg"
+                      src="/assets/images/about/about-me-picture.JPG"
                       alt="About Images"
                     />
                   </div>
@@ -103,7 +103,7 @@ const PortfolioLanding = () => {
                     <a
                       style={{ marginTop: 40 }}
                       className="rn-button-style--2 btn-solid"
-                      href="/blog"
+                      href="https://drive.google.com/uc?export=download&id=1X6-9DdgM4YH48v6BPrKExGGYr_OV1yrR"
                     >
                       <span>Download Resume</span>
                     </a>
